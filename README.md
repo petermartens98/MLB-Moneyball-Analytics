@@ -2,7 +2,7 @@
 
 Project Descriptions:
 
-## MLB Batting Heat Maps for 2018 Data.ipynb
+### MLB Batting Heat Maps for 2018 Data.ipynb
 
 Python Jupyter notebook that takes in 2018 MLB advanced media data, and then uses matplotlib to create heatmaps for all the balls put into play during the 2018 season. Largely utilizing pandas, numpy and matplotlib
 
